@@ -8,11 +8,11 @@
 // 4. ATENÇÃO: Não vale apenas escrever "return 2;". O robô vai te pegar! Seja criativo(a).
 
 function minhaFuncao() {
-let num1 = 1;
-let num2 = 1;
+let num1 = 6;
+let num2 = 4;
 let resultado = 0;
     // ⬇️ ESCREVA SUA FÓRMULA MATEMÁTICA NA LINHA ABAIXO ⬇️
-resultado = num1 + num2;
+resultado = num1 - num2;
     return resultado; 
 }
 
