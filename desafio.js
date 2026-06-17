@@ -8,14 +8,15 @@
 // 4. ATENÇÃO: Não vale apenas escrever "return 2;". O robô vai te pegar! Seja criativo(a).
 
 function minhaFuncao() {
-let num1 = 7;
-let num2 = 5;
-let resultado = 0;
-    // ⬇️ ESCREVA SUA FÓRMULA MATEMÁTICA NA LINHA ABAIXO ⬇️
-resultado = num1 - num2;
-    return resultado; 
+  let num1 = 7;
+  let num2 = 5;
+  let resultado = 0;
+
+  // ⬇️ ESCREVA SUA FÓRMULA MATEMÁTICA NA LINHA ABAIXO ⬇️
+  resultado = (num1 * num2 - 25) / 5;
+  return resultado;
 }
 
-// ⚠️ NÃO MEXA NA LINHA ABAIXO! 
+// ⚠️ NÃO MEXA NA LINHA ABAIXO!
 // Ela é a "ponte" que permite ao robô do professor testar o seu código.
 module.exports = minhaFuncao;
