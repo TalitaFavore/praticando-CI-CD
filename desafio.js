@@ -12,7 +12,7 @@ let num1 = 7;
 let num2 = 5;
 let resultado = 0;
     // ⬇️ ESCREVA SUA FÓRMULA MATEMÁTICA NA LINHA ABAIXO ⬇️
-resultado = num1 - num2;
+resultado = num1 + num2;
     return resultado; 
 }
 
